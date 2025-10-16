@@ -52,7 +52,7 @@ This document provides a concise summary of the differences between the base spe
 #### New Change History Entry (Row 18)
 - **Version**: aa0-51-a
 - **Date**: 2025/10/9
-- **Owner**: EPF5 池尻 (Ikejiri)
+- **Owner**: EPF5 Project Team
 - **Changes**:
   1. t-CORE support (DI/PFI abnormality detection timing specification issue response) [with t-CORE support]
   2. Other (typo correction) ... Specification confirmation document response (DENG-STD-24050 No1)
