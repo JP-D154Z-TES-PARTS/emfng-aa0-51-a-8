@@ -12,6 +12,7 @@
 3. **[変更点一覧表](./変更点一覧表.md)** - 変更点の一覧表（日本語）
 4. **[SPECIFICATION_DIFF_SUMMARY](./SPECIFICATION_DIFF_SUMMARY.md)** - 差分分析サマリー（英語）
 5. **[コンフリクト解決ガイド](./CONFLICT_RESOLUTION.md)** - マージコンフリクトの解決方法
+6. **[クイックリファレンス](./QUICK_REFERENCE.md)** - コンフリクト解決コマンド一覧
 
 ### 🔍 主要な変更点
 
